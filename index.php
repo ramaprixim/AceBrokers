@@ -22,7 +22,7 @@
                                 <img src="assets/images/circle_star.png" alt="star" class="push_animat">
                             </div>
                             <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3"></span>
-                            <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Start Investing Today!</h1>
+                            <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Start Your Investing Journey Today!</h1>
                             <p class="fs-six-up fw_500 nb4-xxl-color"></p>
                             <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10">
                                 <a href="signup.html" class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6">Know Us More</a>
@@ -87,7 +87,7 @@
                                 </div>
                                 <div class="content">
                                     <h3 class="mb-3">What makes us the preferred choice?</h3>
-                                    <p>Choose us for expert guidance, innovative solutions, and a proven track record in delivering tailored financial success.</p>
+                                    <p>Choose us for expert guidance, innovative solutions, and a proven track record in delivering tailored financial success. We offer cost-effective MT5 services, ensuring significant savings compared to other service providers in the market.</p>
                                 </div>
                             </div>  
                         </div>

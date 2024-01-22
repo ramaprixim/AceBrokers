@@ -63,7 +63,7 @@ span{
                                                                    <div class="price-column col-lg-12 col-md-12 col-sm-12">
                                                                         <h2>Mini Account</h2>
                                                                         <br>
-                                                                        <p>Mini Account is designed to cater the needs of a moderate experienced trader who wish to take advantage of his trading strategies developed with low amount of deposit.</p>
+                                                                        <p>A mini account in forex is a type of trading account that allows investors to participate in the foreign exchange market with a smaller capital investment compared to standard or regular trading accounts. Mini accounts are designed for traders who are new to the forex market or have limited capital to allocate to trading.</p>
                                                                         <br>
                                                                         <ul class="price-list">
                                                                             <li>Account Type: <span>Mini Account</span></li>

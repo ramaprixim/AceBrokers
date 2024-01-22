@@ -25,6 +25,10 @@
     <link rel="stylesheet" href="assets/css/icons-webfont@2.36.0/fonts/tabler-iconsea40.ttf">
     <link rel="stylesheet" href="assets/css/icons-webfont@2.36.0/fonts/tabler-iconsea40.woff2">
     <link rel="stylesheet" href="assets/css/icons-webfont@2.36.0/tabler-icons.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,300&display=swap" rel="stylesheet">
 </head>
 <body>
 <div class="preloader">
@@ -78,12 +82,6 @@
                                     <ul class="dropdown-menu">
                                         <ul>
                                             <li><a href="why-us.php">Why Us</a></li>
-                                            <li><a href="regulation.html">Regulation</a></li>
-                                            <li><a href="legal-documentation.html">Legal Documentations</a></li>
-                                            <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                                            <li><a href="risk-disclaimer.html">Risk Disclaimer</a></li>
-                                            <li><a href="terms-conditions.html">Terms &amp; Conditions</a></li>
-                                            <li><a href="faqs.html">FAQ</a></li>
                                             <!-- <li><a href="#">Sitemap</a></li> -->
                                         </ul>
                                     </ul>
@@ -99,8 +97,8 @@
                                             <li><a href="luxury-account.php">Luxury Account</a></li>
 											<li><a href="islamic-account.php">Islamic Account</a></li>
                                             <li><a href="deposit-methods.php">Deposit Methods</a></li>
-                                            <li><a href="withdrawal-methods.html">Withdrawal Methods</a></li>
-                                            <li><a href="safety-of-funds.html">Safety of Funds</a></li>
+                                            <li><a href="withdrawal-methods.php">Withdrawal Methods</a></li>
+                                            <li><a href="safety-of-funds.php">Safety of Funds</a></li>
                             </ul>
                         </li>
                         <li class="dropdown show-dropdown">
@@ -109,10 +107,9 @@
                             <ul class="dropdown-menu">
                                 <ul>
                                     <li><a href="metatrader-5-windows.php">MetaTrader 5 (Windows)</a></li>
-                                    <li><a href="metatrader-5-mobile.html">MetaTrader 5 (Mobile)</a></li>
+                                    <li><a href="metatrader-5-mobile.php">MetaTrader 5 (Mobile)</a></li>
                                     <li><a href="economic-calendar.php">Economic Calendar</a></li>
-                                    <li><a href="project-detail.html">Charts</a></li>
-                                    <li><a href="project-detail.html">Free Indicators &amp; EA</a></li>
+                                    <li><a href="economic-calculator.php">Economic Calculator</a></li>
                                 </ul>
                             </ul>
                         </li>
@@ -121,10 +118,10 @@
                                 class="dropdown-toggle dropdown-nav"><a href="#">Education</a></button>
                             <ul class="dropdown-menu">
                                 <ul>
-                                    <li><a href="glossary.html">Glossary</a></li>
-                                    <li><a href="introduction-to-forex.html">Introduction To Forex</a></li>
-                                    <li><a href="technical-analysis.html">Technical Analysis</a></li>
-                                    <li><a href="fundamental-analysis.html">Fundamental Analysis</a></li>
+                                    <li><a href="glossary.php">Glossary</a></li>
+                                    <li><a href="introduction-to-forex.php">Introduction To Forex</a></li>
+                                    <li><a href="technical-analysis.php">Technical Analysis</a></li>
+                                    <li><a href="fundamental-analysis.php">Fundamental Analysis</a></li>
                                     <li><a href="forex-trading.html">Forex Trading</a></li>
                                     <li><a href="cfd-trading.html">CFD Trading</a></li>
                                     <li><a href="metals-trading.html">Metals Trading</a></li>

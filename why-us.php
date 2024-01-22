@@ -32,7 +32,7 @@
                 <div class="col-md-10 col-lg-6 col-xxl-5">
                     <div class="trade_on__content">
                         <h4 class="mb-4 mb-lg-5">Overview of the Company</h4>
-                        <p class="mx-ch">Drawing from diverse economic periods, our team excels at recognizing optimal opportunities in both favorable and challenging market conditions. Our success is attributed to seamless integration with clients. Recognizing that there's no universal "best" answer in customer service, we aim to assist you in obtaining the information you seek. We are committed to providing a variety of non-refundable options through our support team.</p>   
+                        <p class="mx-ch">Our team excels at recognizing optimal opportunities in both favorable and challenging market conditions. Our success is attributed to seamless integration with clients. Recognizing that there's no universal "best" answer in customer service, we aim to assist you in obtaining the information you seek. We are committed to providing a variety of non-refundable options through our support team.Additionally, we provide diverse trading platforms, including MT4 and MT5, for your trading needs.</p>   
                     </div>
                     <div class="trade_on__content">
                         <br>

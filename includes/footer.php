@@ -10,34 +10,28 @@
                     <div class="footer__part">
                         <h4 class="mb-6 mb-lg-8">Quick Link</h4>
                         <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
-                            <li>
-                                <a class="n2-color d-flex align-items-center" href="market.html"> markets</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="education.html">Education</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="support.html">Support</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="legal-docs.html">Legal docs</a>
-                            </li>
+                        <li><a class="n2-color" href="regulation.html">Regulation</a></li>
+                                            <li><a class="n2-color" href="legal-documentation.html">Legal Documentations</a></li>
+                                            <li><a class="n2-color" href="privacy-policy.html">Privacy Policy</a></li>
+                                            <li><a class="n2-color" href="risk-disclaimer.html">Risk Disclaimer</a></li>
+                                            <li><a class="n2-color" href="terms-conditions.html">Terms &amp; Conditions</a></li>
+                                            <li><a class="n2-color" href="faqs.html">FAQ</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="footer__part">
-                        <h4 class="mb-6 mb-lg-8">Company</h4>
+                        <h4 class="mb-6 mb-lg-8">Accounts</h4>
                         <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
-                            <li>
-                                <a class="n2-color" href="about.html">About</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="blog.html">Blog</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="careers.html">Carreers</a>
-                            </li>
+                        <li><a class="n2-color" href="compare-account.html">Compare Account Types</a></li>
+                                            <li><a class="n2-color" href="micro-account.php">Micro Account</a></li>
+                                            <li><a class="n2-color" href="mini-account.php">Mini Account</a></li>
+                                            <li><a class="n2-color" href="prime-account.php">Prime Account</a></li>
+                                            <li><a class="n2-color" href="luxury-account.php">Luxury Account</a></li>
+											<li><a class="n2-color" href="islamic-account.php">Islamic Account</a></li>
+                                            <li><a class="n2-color" href="deposit-methods.php">Deposit Methods</a></li>
+                                            <li><a class="n2-color" href="withdrawal-methods.php">Withdrawal Methods</a></li>
+                                            <li><a class="n2-color" href="safety-of-funds.php">Safety of Funds</a></li>
                         </ul>
                     </div>
                 </div>
