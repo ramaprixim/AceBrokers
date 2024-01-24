@@ -23,7 +23,7 @@
                                             <div class="trade_on__content">
                                                 <h2 class="mb-4 mb-lg-5">MetaTrading 5 Mobile</h2>
                                            
-                                                <p class="mx-ch">Experience seamless mobile trading with Finnex Markets. Our MT5 platform is compatible with iPhone, iPad, and Android devices, enabling you to trade from anywhere with a simple click. Download the MT5 app on your mobile or tablet to manage your account on the go.</p>
+                                                <p class="mx-ch">Experience seamless mobile trading with Acebroker. Our MT5 platform is compatible with iPhone, iPad, and Android devices, enabling you to trade from anywhere with a simple click. Download the MT5 app on your mobile or tablet to manage your account on the go.</p>
                                                     <p class="mx-ch">Benefit from real-time access to global forex markets, monitor trades, and execute positions with ease. Enjoy real-time quotes, a comprehensive set of trade orders, and various execution options, all requiring just a Wi-Fi or mobile internet connection. With mobile trading, you'll never miss a trade opportunity.</p>
                                             </div>
                                         </div>    

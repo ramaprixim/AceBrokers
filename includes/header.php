@@ -90,20 +90,19 @@
                             <button type="button" aria-label="Navbar Dropdown Button"
                                 class="dropdown-toggle dropdown-nav">Accounts</button>
                             <ul class="dropdown-menu">
-                            <li><a href="compare-account.html">Compare Account Types</a></li>
+                            <li><a href="compare-account.php">Compare Account Types</a></li>
                                             <li><a href="micro-account.php">Micro Account</a></li>
                                             <li><a href="mini-account.php">Mini Account</a></li>
                                             <li><a href="prime-account.php">Prime Account</a></li>
                                             <li><a href="luxury-account.php">Luxury Account</a></li>
 											<li><a href="islamic-account.php">Islamic Account</a></li>
                                             <li><a href="deposit-methods.php">Deposit Methods</a></li>
-                                            <li><a href="withdrawal-methods.php">Withdrawal Methods</a></li>
                                             <li><a href="safety-of-funds.php">Safety of Funds</a></li>
                             </ul>
                         </li>
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-toggle dropdown-nav"><a href="#">Platforms &amp; Trading Tools</a></button>
+                                class="dropdown-toggle dropdown-nav"><a href="#">Platforms</a></button>
                             <ul class="dropdown-menu">
                                 <ul>
                                     <li><a href="metatrader-5-windows.php">MetaTrader 5 (Windows)</a></li>
@@ -122,13 +121,8 @@
                                     <li><a href="introduction-to-forex.php">Introduction To Forex</a></li>
                                     <li><a href="technical-analysis.php">Technical Analysis</a></li>
                                     <li><a href="fundamental-analysis.php">Fundamental Analysis</a></li>
-                                    <li><a href="forex-trading.html">Forex Trading</a></li>
-                                    <li><a href="cfd-trading.html">CFD Trading</a></li>
-                                    <li><a href="metals-trading.html">Metals Trading</a></li>
-                                    <li><a href="commodity.html">Commodities</a></li>
-                                    <li><a href="futures.html">Futures</a></li>
-                                    <li><a href="oil-trading.html">Oil Trading</a></li>
-                                    <li><a href="expert-advisors.html">Expert Advisors</a></li>
+                                    <li><a href="forex-trading.php">Forex Trading</a></li>
+                                    <li><a href="expert-advisors.php">Expert Advisors</a></li>
                                 </ul>
                             </ul>
                         </li>
@@ -137,15 +131,10 @@
                                 class="dropdown-toggle dropdown-nav"><a href="#">Partners</a></button>
                             <ul class="dropdown-menu">
                                 <ul>
-                                    <li><a href="ib-program.html">IB Program</a></li>
-                                    <li><a href="channel-partner.html">Channel Partner</a></li>
-                                    <li><a href="become-ib.html">Become an IB</a></li>
+                                    <li><a href="become-ib.php">Become an IB</a></li>
                                 </ul>
                             </ul>
                         </li>
-                        <li class="dropdown show-dropdown"><button type="button" aria-label="Navbar Dropdown Button"
-                            class=" dropdown-nav"><a href="index.php">Promotions</a>  </button>
-                            </li>
                             <li class="dropdown show-dropdown">
                                 <button type="button" aria-label="Navbar Dropdown Button"
                                 class=""><a href="index.php">Contact</a>  </button>                            </li>

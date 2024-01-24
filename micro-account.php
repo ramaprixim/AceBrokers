@@ -54,7 +54,7 @@ span{
                                                    <div class="price-column col-lg-12 col-md-12 col-sm-12">
                                                         <h2>Micro Account</h2>
                                                         <br>
-                                                        <p>Designed for traders new to the Forex market and those trading smaller volumes, the Finnex Marketss Micro account allows investors to trade smaller trade sizes and open an account with a lower initial deposit than a Classic account all from the powerful MetaTrader 5 platform.</p>
+                                                        <p>Designed for traders new to the Forex market and those trading smaller volumes, the Acebrokers Micro account allows investors to trade smaller trade sizes and open an account with a lower initial deposit than a Classic account all from the powerful MetaTrader 5 platform.</p>
                                                         <br>
                                                         <ul class="price-list">
                                                             <li>Account Type			: <span>Micro</span></li>

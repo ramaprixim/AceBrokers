@@ -63,7 +63,7 @@ span{
                                                                    <div class="price-column col-lg-12 col-md-12 col-sm-12">
                                                                         <h2>Luxury Account</h2>
                                                                         <br>
-                                                                        <p>Finnex Marketss offers a equal level of service to all clients, but we understand some clients need us to go the extra mile. If you are a high volume (active) or high net worth trader we are here to offer you the next level of service you expect.</p>
+                                                                        <p>Acebrokers offers a equal level of service to all clients, but we understand some clients need us to go the extra mile. If you are a high volume (active) or high net worth trader we are here to offer you the next level of service you expect.</p>
                                                                        <br>
                                                                         <ul class="price-list">
                                                                             <li>Account Type			: <span>Luxury</span></li>

@@ -10,6 +10,8 @@
                     <div class="footer__part">
                         <h4 class="mb-6 mb-lg-8">Quick Link</h4>
                         <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
+                        <li><a class="n2-color" href="why-us.php">Why Us</a></li>
+                        <li><a class="n2-color" href="contact-us.php">Contact AC</a></li>
                         <li><a class="n2-color" href="regulation.html">Regulation</a></li>
                                             <li><a class="n2-color" href="legal-documentation.html">Legal Documentations</a></li>
                                             <li><a class="n2-color" href="privacy-policy.html">Privacy Policy</a></li>
@@ -30,34 +32,32 @@
                                             <li><a class="n2-color" href="luxury-account.php">Luxury Account</a></li>
 											<li><a class="n2-color" href="islamic-account.php">Islamic Account</a></li>
                                             <li><a class="n2-color" href="deposit-methods.php">Deposit Methods</a></li>
-                                            <li><a class="n2-color" href="withdrawal-methods.php">Withdrawal Methods</a></li>
                                             <li><a class="n2-color" href="safety-of-funds.php">Safety of Funds</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="footer__part">
-                        <h4 class="mb-6 mb-lg-8">Legal</h4>
+                        <h4 class="mb-6 mb-lg-8">Education</h4>
                         <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
-                            <li>
-                                <a class="n2-color" href="terms-conditions.html">Terms & Conditions</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="privacy-policy.html">Privacy & Policy</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="contact.html">Contact</a>
-                            </li>
+                        <li><a class="n2-color" href="glossary.php">Glossary</a></li>
+                                    <li><a class="n2-color" href="introduction-to-forex.php">Introduction To Forex</a></li>
+                                    <li><a class="n2-color" href="technical-analysis.php">Technical Analysis</a></li>
+                                    <li><a class="n2-color" href="fundamental-analysis.php">Fundamental Analysis</a></li>
+                                    <li><a class="n2-color" href="forex-trading.php">Forex Trading</a></li>
+                                    <li><a class="n2-color" href="expert-advisors.php">Expert Advisors</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="footer__part">
-                        <h4 class="mb-6 mb-lg-8">Contact Us</h4>
-                        <div class="d-flex flex-column gap-2 gap-sm-3 gap-md-4">
-                            <a href="https://pixner.net/cdn-cgi/l/email-protection#f39a9d959cb3968b929e839f96dd909c9e"><span class="__cf_email__" data-cfemail="ed84838b82ad88958c809d8188c38e8280">[email&#160;protected]</span></a>
-                            <a href="tel:+123456789">+0123 456 789</a>
-                        </div>
+                        <h4 class="mb-6 mb-lg-8">Platforms</h4>
+                        <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
+                        <li><a href="metatrader-5-windows.php">MetaTrader 5 (Windows)</a></li>
+                                    <li><a href="metatrader-5-mobile.php">MetaTrader 5 (Mobile)</a></li>
+                                    <li><a href="economic-calendar.php">Economic Calendar</a></li>
+                                    <li><a href="economic-calculator.php">Economic Calculator</a></li>
+                        </ul>
                     </div>
                 </div>
             </div>

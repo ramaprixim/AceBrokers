@@ -5,12 +5,11 @@
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h2 class="mb-4">Introduction To Forex</h2>
+                <h2 class="mb-4">Technical Analysis</h2>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item ms-2 ps-7 active" aria-current="page"><span>Introduction To
-                                Forex</span></li>
+                        <li class="breadcrumb-item ms-2 ps-7 active" aria-current="page"><span>Technical Analysis</span></li>
                     </ol>
                 </nav>
             </div>
@@ -85,7 +84,9 @@
                     <div class="trade_on__content">
                         <span class="heading s1-color fs-five mb-5"></span>
                         <h3 class="mb-4 mb-lg-5">Subjectivity of Technical Analysis</h3>
-                       <p>However, it's important to know that technical analysis can be different for different people. Even if two traders are looking at the same chart, they might not agree on what it means or where prices are headed. It's a bit like art everyone might see something a little different. So, while technical analysis can be a powerful tool, it's not a one-size-fits-all solution. It's all about using the information in a way that makes sense to you and fits your trading style.</p>
+                        <p>However, it's important to know that technical analysis can be different for different people. Even if two traders are looking at the same chart, they might not agree on what it means or where prices are headed. It's a bit like art. Everyone might see something a little different. So, while technical analysis can be a powerful tool, it's not a one-size-fits-all solution. It's all about using the information in a way that makes sense to you and fits your trading style.
+
+</p>
                     </div>
                 </div>
             </div>

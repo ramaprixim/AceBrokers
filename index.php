@@ -129,7 +129,7 @@
                             <i class="ti ti-users fs-three p1-color"></i>
                         </span>
                        <h4 class="mt-5 mb-5">Privacy Policy</h4>
-                       <p>At Finnex Markets, ensuring the privacy of information shared by our website users and visitors is a top priority.</p>
+                       <p>At Acebroker, ensuring the privacy of information shared by our website users and visitors is a top priority.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-xxl-3">
@@ -138,7 +138,7 @@
                             <i class="ti ti-shield-check-filled fs-three p1-color"></i>
                         </span>
                        <h4 class="mt-5 mb-5">Fair Treatment</h4>
-                       <p>A fundamental principle at Finnex Markets is the fair treatment of customers, reflecting our core values.</p>
+                       <p>A fundamental principle at Acebroker is the fair treatment of customers, reflecting our core values.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-xxl-3">

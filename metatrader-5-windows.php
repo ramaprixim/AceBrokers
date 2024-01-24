@@ -24,7 +24,7 @@
                                                 <h2 class="mb-4 mb-lg-5">MetaTrading 5 Window</h2>
                                            
                                                 <p class="mx-ch">MetaTrader 5 (MT5) stands out as the world's foremost and widely embraced trading platform, catering to both novice forex enthusiasts and seasoned traders with advanced technical charting capabilities. It offers user-friendly functionality, seamlessly meeting the needs of traders at every level.</p>
-                                                    <p class="mx-ch">Built for convenience, Finnex Markets' MetaTrader 5 integrates all essential tools for trading, encompassing technical analysis features, advanced trading orders, and customizable charts. The platform supports the incorporation of custom automated trading strategies (EAs) and indicators, allowing for a personalized trading experience.</p>
+                                                    <p class="mx-ch">Built for convenience, acebrokers' MetaTrader 5 integrates all essential tools for trading, encompassing technical analysis features, advanced trading orders, and customizable charts. The platform supports the incorporation of custom automated trading strategies (EAs) and indicators, allowing for a personalized trading experience.</p>
                                             </div>
                                         </div>    
                                         <div class="content-column col-lg-6 col-md-12 col-sm-12">
@@ -41,8 +41,8 @@
                                         </div> 
                                         <div class="content-column col-lg-6 col-md-12 col-sm-12">
                                             <div class="trade_on__content">
-                                                        <p class=" mx-ch">Fully integrated into our suite of services, Finnex Markets' MetaTrader 5 ensures a trading environment characterized by tight spreads and "Market Execution" without requotes. It is an ideal platform for diverse trading strategies, supporting EAs, hedging, and scalping for efficient trade execution with minimal delays.</p>
-                                                            <p class=" mx-ch">Whether utilizing existing Expert Advisors or creating custom EAs with the MetaTrader MQL4 programming language, Finnex Markets MT5 provides the essential tools for successful and streamlined trading.</p>   
+                                                        <p class=" mx-ch">Fully integrated into our suite of services, Acebrokers MetaTrader 5 ensures a trading environment characterized by tight spreads and Market Execution without requotes. It is an ideal platform for diverse trading strategies, supporting EAs, hedging, and scalping for efficient trade execution with minimal delays.</p>
+                                                            <p class=" mx-ch">Whether utilizing existing Expert Advisors or creating custom EAs with the MetaTrader MQL4 programming language, acebrokers MT5 provides the essential tools for successful and streamlined trading.</p>   
                                             </div>
                                         </div>    
                                                           
